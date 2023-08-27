@@ -1,0 +1,16 @@
+.texto {
+    font-family: 'Outfit', sans-serif;
+    padding-top: 1rem;
+}
+.titulo {
+    font-family: 'Outfit', sans-serif;
+    font-weight: 700;
+    padding-bottom: 0.5rem;
+    font-size: 20px;
+}
+
+.texto-normal {
+    font-family: 'Outfit', sans-serif;
+    font-size: 15px;
+    font-weight: 400;
+}
